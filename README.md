@@ -1,5 +1,5 @@
 # Discord-GPT3-Bot
-Before you run "index.js" you should config your key on " .env" first
+Before you run "index.js" you should config your key on " .env" first abd make sure you have your discord bot application
 After that, you can run by type command >> node index
 Make sure you have available token from OPENAI
 This bot use model Davinci-002 it mak cause a more token using
